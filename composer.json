@@ -1,0 +1,22 @@
+{
+    "name": "biozahard/yii2-web3js-asset",
+    "description": "Web3.js libgrary asset bundle for Yii 2.0 Framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","biozahard","web3js","ethereum","solidity","asset","js","dapp"],
+    "license": "BSD-3-Clause",
+    "version": "0.20.2",
+    "authors": [
+        {
+            "name": "Biozahard",
+            "email": "biozahard@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "biozahard\\web3js\\": ""
+        }
+    }
+}
